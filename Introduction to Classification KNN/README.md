@@ -80,7 +80,6 @@ This project provides a practical and beginner-friendly introduction to machine 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TegarAdh&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAdh&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=TegarAdh&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
