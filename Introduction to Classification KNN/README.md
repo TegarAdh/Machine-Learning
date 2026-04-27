@@ -75,8 +75,18 @@ This project provides a practical and beginner-friendly introduction to machine 
 
 ## Author
 
-TegarAdh
+[![GitHub](https://img.shields.io/badge/GitHub-TegarAdh-black?logo=github)](https://github.com/TegarAdh)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TegarAdh&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAdh&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=TegarAdh&theme=tokyonight)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
