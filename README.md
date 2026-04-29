@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm TegarAdh
+# Hi there  I'm TegarAdh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TegarAdh&style=for-the-badge&color=blue)
 ![Followers](https://img.shields.io/github/followers/TegarAdh?style=for-the-badge&color=orange)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 Passionate about Programming & Machine Learning
 - 🤖 Interested in Robotics & Automation
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,27 +30,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TegarAdh&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAdh&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TegarAdh&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-TegarAdh-181717?style=for-the-badge&logo=github)](https://github.com/TegarAdh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tegar_Adhi_Nugraha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-adhi-nugraha-christ-during-692430325)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!⭐
 
 </div>
