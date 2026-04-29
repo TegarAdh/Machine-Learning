@@ -1,42 +1,56 @@
-# Machine Learning Repository
+<div align="center">
 
-Selamat datang di repository Machine Learning ini!
-Repository ini dibuat sebagai wadah pembelajaran, dokumentasi, serta implementasi berbagai konsep dan algoritma dalam bidang Machine Learning.
+# Hi there 👋 I'm TegarAdh
 
-## Tentang Repository
-Repository ini berisi kumpulan materi, kode program, serta eksperimen yang berkaitan dengan Machine Learning, mulai dari konsep dasar hingga penerapan pada studi kasus nyata. Tujuan utama dari repository ini adalah untuk:
+![Profile Views](https://komarev.com/ghpvc/?username=TegarAdh&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/TegarAdh?style=for-the-badge&color=orange)
+![Stars](https://img.shields.io/github/stars/TegarAdh?style=for-the-badge&color=yellow)
 
-* Membantu memahami konsep Machine Learning secara bertahap
-* Menyediakan contoh implementasi yang mudah dipahami
-* Menjadi portofolio pembelajaran dan pengembangan skill
+</div>
 
-## Tools & Teknologi
+---
 
-Repository ini menggunakan beberapa tools dan library berikut:
+## 🚀 About Me
 
-* Python 
-* NumPy
-* Pandas
-* Matplotlib / Seaborn
-* Scikit-learn
-* Jupyter Notebook
+- 💻 Passionate about Programming & Machine Learning
+- 🤖 Interested in Robotics & Automation
+- 📊 Exploring Data Science Projects
+- 🔧 Building Real World Engineering Systems
 
-## Profil Pengembang
-Nama: Tegar Adh <br>
-Bidang: Machine Learning Enthusiast & Engineering Student <br>
-Fokus: Data Analysis, Artificial Intelligence, dan Automation System <br>
+---
 
-### Tentang Saya
+## 🛠️ Tech Stack
 
-Saya memiliki ketertarikan dalam pengembangan teknologi berbasis data, khususnya dalam bidang Machine Learning dan Artificial Intelligence. Repository ini merupakan bagian dari perjalanan saya dalam mempelajari, mengembangkan, dan mengimplementasikan berbagai algoritma untuk menyelesaikan permasalahan nyata.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Tujuan Kedepan
+---
 
-* Mengembangkan project berbasis AI yang lebih kompleks
-* Mengintegrasikan Machine Learning dengan sistem real-time
-* Membangun portofolio profesional di bidang AI & Robotics
+## 📈 GitHub Stats
 
-## Penutup
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TegarAdh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAdh&layout=compact&theme=tokyonight)
 
-Terima kasih telah mengunjungi repository ini.
-Jika repository ini bermanfaat, jangan lupa untuk memberikan ⭐!
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TegarAdh&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-TegarAdh-181717?style=for-the-badge&logo=github)](https://github.com/TegarAdh)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
