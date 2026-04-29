@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Repository
+# Machine Learning Repository
 
 Selamat datang di repository Machine Learning ini!
 Repository ini dibuat sebagai wadah pembelajaran, dokumentasi, serta implementasi berbagai konsep dan algoritma dalam bidang Machine Learning.
