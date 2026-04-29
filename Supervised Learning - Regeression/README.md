@@ -107,10 +107,6 @@ Supervised Learning - Regression/
 * Scikit-learn Documentation
 * Regression Concepts
 
-## Author
-
-[![GitHub](https://img.shields.io/badge/GitHub-TegarAdh-black?logo=github)](https://github.com/TegarAdh)
-
 ## Future Improvements
 
 * Feature Engineering
